@@ -1,6 +1,7 @@
 # time-series
 
 190317: Completed tutorial
+TBC: https://www.kaggle.com/c/demand-forecasting-kernels-only/data
 
 # Notes
 Main source: https://machinelearningmastery.com/time-series-forecasting/
